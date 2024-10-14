@@ -1,0 +1,15 @@
+[submodule "ros2_ws/src/usb_cam"]
+	path = ros2_ws/src/usb_cam
+	url = git@github.com:Geicar-Marcycle/usb_cam.git
+[submodule "ros2_ws/src/interfaces"]
+	path = ros2_ws/src/interfaces
+	url = git@github.com:Geicar-Marcycle/interfaces.git
+[submodule "ros2_ws/src/geicar_start_jetson"]
+	path = ros2_ws/src/geicar_start_jetson
+	url = git@github.com:Geicar-Marcycle/geicar_start_jetson.git
+[submodule "ros2_ws/src/system_check_ack"]
+	path = ros2_ws/src/system_check_ack
+	url = git@github.com:Geicar-Marcycle/system_check_ack.git
+[submodule "ros2_ws/src/rplidar_ros2"]
+	path = ros2_ws/src/rplidar_ros2
+	url = git@github.com:Geicar-Marcycle/rplidar_ros.git
